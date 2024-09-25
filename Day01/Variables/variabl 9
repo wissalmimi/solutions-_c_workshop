@@ -13,6 +13,4 @@ int main() {
 
   printf("diistance=%f",dis);
 }
-Faire coucou à mohammed
 
-Envoyer un message à @mohammed
