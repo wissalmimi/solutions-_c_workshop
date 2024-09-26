@@ -1,11 +1,14 @@
-
 #include <stdio.h>
 
 int main() {
- float c , k ;
-
- printf("c = ");
- scanf("%f",&c);
- k = c + 273.15 ;
- printf("le temperateur = %f",k);
+    int a;
+    
+    printf("iter neber ");
+    scanf("%d", &a);
+    
+    if (a % 2 == 0)
+        printf("this nbr is even");
+    else
+        printf("this nbr is odd");
+    return 0;
 }
