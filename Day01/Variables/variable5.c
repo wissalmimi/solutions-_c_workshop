@@ -14,6 +14,3 @@ printf("gaz");
 return 0; 
 
 }
-Faire coucou à mohammed
-
-Envoyer un message à @mohammed
